@@ -1,0 +1,30 @@
+{
+  "name": "builder-react-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.42.1",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalinss/builder-react-library.git"
+  },
+  "author": "kalinss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalinss/builder-react-library/issues"
+  },
+  "homepage": "https://github.com/Kalinss/builder-react-library#readme"
+}
